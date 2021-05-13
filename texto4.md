@@ -1,0 +1,1 @@
+Era un caluroso verano. Una cigarra, protegida del sol por la sombra un árbol y disfrutando el momento sin ninguna intención de ponerse a trabajar, cantaba y cantaba continuamente. Mientras vió como su vecina
