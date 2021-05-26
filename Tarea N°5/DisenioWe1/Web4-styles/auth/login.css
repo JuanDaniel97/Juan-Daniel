@@ -1,0 +1,42 @@
+body{
+    background-image: url(../planeta.jpg);
+    margin: 0%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-color: #b9b9b9;
+    
+    
+}
+input[type=text],input[type=password]{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+    
+    
+}
+h1, label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(28, 139, 0);
+    width: 80%;
+    border-radius: 20px;
+}
+input[type=submit] {
+    width: 50%;
+    background-color: #81848f;
+    color: rgb(0, 0, 0);
+    padding: 20px 20px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    
+}
+input[type=submit]:hover {
+    background-color: #117e0e;
+}
+
