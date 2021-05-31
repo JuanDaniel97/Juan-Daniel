@@ -42,8 +42,8 @@
     background-position: center center;
     background-size: cover;
 }
-.cabecera-somos, h1 .cabecera-somos, h2{
-    color: ivory;
+cabecera-somos, h1 cabecera-somos, h2{
+    color: rgb(168, 0, 0);
 }
 .banner-somos{
     background-image: url(../imagenes/somos-equipo.jpg);
@@ -53,7 +53,7 @@
     text-align: center;
 }
 .text-center{
-    color: ivory;
+    color: rgb(0, 0, 0);
 }
 /*fin de cabezera*/
 footer{
