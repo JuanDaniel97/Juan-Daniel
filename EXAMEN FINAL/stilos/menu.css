@@ -35,6 +35,27 @@
     position: relative;
     border-radius: 60px;
 }
+/*cabecera somos SEGUNDA PAGINA-WEB*/
+.cabecera-somos{
+    padding: 100px 0;
+    background-image: url(../imagenes/14-DE-SEPTIEMBRE-COCHABAMBA.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.cabecera-somos, h1 .cabecera-somos, h2{
+    color: ivory;
+}
+.banner-somos{
+    background-image: url(../imagenes/somos-equipo.jpg);
+    background-position: center center;
+    background-size: cover;
+    padding: 200px 0;
+    text-align: center;
+}
+.text-center{
+    color: ivory;
+}
+/*fin de cabezera*/
 footer{
     background-color: rgb(0, 0, 0);
     padding: 20px 0;
