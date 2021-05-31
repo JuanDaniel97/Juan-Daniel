@@ -1,0 +1,63 @@
+body, html{
+    height: 100%;
+}
+body{
+    background-image: url(../imagenes/imgfondo2.jpg);
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.form-box{
+    width: 200px;
+    padding: 100px;
+    background-image: url(../imagenes/FLAMENCOS.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    min-height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.form-title{
+    color: rgb(177, 144, 0);
+    text-transform:capitalize;
+    font-weight: 300;
+
+}
+
+.form-box input[type="text"],
+.form-box input[type="password"],
+.form-box button[type="submit"]{
+    border: 0;
+    background: #00277c;
+    display: block;
+    margin: 20px auto;
+    padding: 14px 10px;
+    text-align: center;
+    border: 2px solid #3742fa;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 1s;
+}
+
+.form-box input[type="text"]:focus,
+.form-box input[type="password"]:focus{
+    width: 280px;
+    border-color: white;
+}
+.form-box button[type="submit"]{
+    border: 0;
+    background: rgb(0, 0, 0);
+    cursor: pointer;
+    border: 2px solid #3742fa;
+}
+.form-box button[type="submit"]:hover
+{
+    background: #00277c;
+}
